@@ -46,4 +46,4 @@ See the [privacy policy](PRIVACY.md).
 
 ## Support
 
-Email <your-email>, or open an issue in this repository.
+Email [EDUTALIS@oecd.org](mailto:EDUTALIS@oecd.org) or [leonard.najman@oecd.org](mailto:leonard.najman@oecd.org), or open an issue in this repository.

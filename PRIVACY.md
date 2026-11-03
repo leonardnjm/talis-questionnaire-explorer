@@ -34,4 +34,5 @@ You can ask about, or request deletion of, any log data related to your use by c
 
 ## Contact
 
-<your-email>
+- [EDUTALIS@oecd.org](mailto:EDUTALIS@oecd.org)
+- [leonard.najman@oecd.org](mailto:leonard.najman@oecd.org)
