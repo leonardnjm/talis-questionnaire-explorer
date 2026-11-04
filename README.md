@@ -42,7 +42,7 @@ All tools are read-only.
 
 ## Privacy
 
-See the [privacy policy](PRIVACY.md).
+See the [privacy policy](PRIVACY.md) and the [terms of use](TERMS.md).
 
 ## Support
 
